@@ -1,4 +1,4 @@
-module qmoya/gitkit
+module github.com/qmoya/gitkit
 
 go 1.15
 
